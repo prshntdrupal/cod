@@ -3,3 +3,8 @@
 #inner_header_wrapper {
     background: none repeat scroll 0 0 #EDEDEB !important;
 }
+
+.nivo-caption{
+    background: lightcyan !important;
+    font-weight: bold !important;
+}
