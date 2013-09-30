@@ -4,6 +4,7 @@ core = 7.x
 
 engine = phptemplate
 stylesheets[all][] = style.css
+stylesheets[all][] = custom.css
 stylesheets[all][] = media.css
 scripts[] = js/custom.js
 
